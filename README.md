@@ -146,7 +146,6 @@ Lihat [url]panduan SEO[link:https://situsanda.com/seo] untuk tips lebih lanjut!
 
 ### ✅ Direkomendasikan
 - Gunakan 5-10 template komentar berbeda
-- Proses maksimal 20-30 website per hari
 - Tulis komentar yang relevan dan bermakna
 - Gunakan anchor text yang sesuai dengan konten target
 - Target website dengan DA/PA tinggi untuk backlink berkualitas
