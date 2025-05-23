@@ -142,20 +142,6 @@ Lihat [url]panduan SEO[link:https://situsanda.com/seo] untuk tips lebih lanjut!
 - Building brand recognition
 - Customer acquisition
 
-## 📁 Struktur File
-
-```
-seo-automation-tools/
-├── main.py              # Controller utama
-├── daftar.py           # Google login (EDIT LINE 175 & 188)
-├── komentar.py         # Posting komentar
-├── logout.py           # Logout otomatis
-├── requirements.txt    # Dependencies
-├── list.txt           # URL target (buat file ini)
-├── komen.txt          # Template komentar (buat file ini)
-└── komen-done.txt     # Log hasil (auto-generated)
-```
-
 ## 🎯 Best Practices
 
 ### ✅ Direkomendasikan
