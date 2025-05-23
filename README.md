@@ -4,10 +4,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-4.15%2B-green.svg)](https://selenium-python.readthedocs.io/)
 
 
-![Deskripsi Foto](/tools.png)
-
-# Atau dengan ukuran custom
-<img src="images/nama-foto.png" width="600" alt="Deskripsi Foto">
+<img src="/tools.png" width="600" alt="SeO Backlink Komentar">
 ```
 
 
