@@ -53,7 +53,7 @@ Tools otomasi untuk SEO link building dan posting komentar otomatis menggunakan 
 
 ### Langkah Instalasi
 ```bash
-git clone https://github.com/username-anda/seo-automation-tools.git
+git clone https://github.com/Dzbackdor/seo-backlink-komentar.git
 cd seo-automation-tools
 pip install -r requirements.txt
 ```
