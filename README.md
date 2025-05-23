@@ -3,6 +3,14 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.15%2B-green.svg)](https://selenium-python.readthedocs.io/)
 
+
+![Deskripsi Foto](/tools.png)
+
+# Atau dengan ukuran custom
+<img src="images/nama-foto.png" width="600" alt="Deskripsi Foto">
+```
+
+
 Tools otomasi untuk SEO link building dan posting komentar otomatis menggunakan Google Login. Otomatisasi login Google, posting komentar dengan backlink, dan logout di berbagai website secara efisien.
 
 ## 🎯 Kegunaan Tools
