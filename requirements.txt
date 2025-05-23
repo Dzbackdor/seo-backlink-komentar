@@ -1,0 +1,15 @@
+# Web automation and browser control
+undetected-chromedriver>=3.5.0
+selenium>=4.15.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+
+# Terminal colors and formatting
+colorama>=0.4.6
+
+# HTTP requests (if needed for future enhancements)
+requests>=2.31.0
+
+# Additional utilities that might be needed
+lxml>=4.9.0
