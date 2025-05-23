@@ -5,7 +5,6 @@
 
 
 <img src="/tools.png" width="600" alt="SeO Backlink Komentar">
-```
 
 
 Tools otomasi untuk SEO link building dan posting komentar otomatis menggunakan Google Login. Otomatisasi login Google, posting komentar dengan backlink, dan logout di berbagai website secara efisien.
