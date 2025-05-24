@@ -23,6 +23,21 @@ G = Fore.GREEN
 Y = Fore.YELLOW
 
 
+def clear_terminal():
+    """
+    Membersihkan terminal untuk semua OS (Windows, Linux, macOS)
+    """
+    try:
+        # Windows
+        if os.name == 'nt':
+            os.system('cls')
+        # Linux/macOS
+        else:
+            os.system('clear')
+    except Exception as e:
+        print(f"{R}Gagal membersihkan terminal: {e}{W}")
+
+
 
 banner = f"""
 
@@ -738,7 +753,7 @@ def buka_url_dari_list():
 
 # Jalankan fungsi jika file ini dijalankan langsung
 if __name__ == "__main__":
-    # sys('cls')
+    clear_terminal()
     print(banner)
     # exit()
     buka_url_dari_list()
